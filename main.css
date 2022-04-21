@@ -1,0 +1,64 @@
+#logo{
+    display: flex;
+    justify-content: center;
+}
+.square{
+    display: flex;
+    justify-content: center;
+    padding-top:  20px;
+}
+
+
+#id{
+    display:flex;
+    justify-content:center;
+    background-size:10px 10px;
+}
+
+.new{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    padding-top: 0px;
+}
+
+#button2{
+    display: flex;
+    justify-content: center;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+
+#foot{
+    display: flex;
+    justify-content: center;
+}
+.password{
+    height:25px;
+}
+.passwordform{
+    height:40px;
+    justify-content: space-between;
+
+}
+
+.emailform{
+    height:25px;
+}
+
+.form{
+    height: 20px;
+}
+
+#signin{
+    height: 10px;
+} 
+
+#button{
+    font-family:'Roboto',sans-serif;
+}
